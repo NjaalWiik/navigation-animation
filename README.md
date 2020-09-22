@@ -25,7 +25,7 @@ Here's a blank template to get started:
   <p align="center">
     Front end project. My take on a navbar with animations.
     <br />
-    <a href="https://njaalwiik.github.io/navigation-animation"><strong>View Demo »</strong></a>
+    <a href="https://njaalwiik.github.io/navigation-animation" target="_blank"><strong>View Demo »</strong></a>
     <br />
     <br />
     <a href="https://njaalwiik.github.io/navigation-animation">Explore The Docs</a>
